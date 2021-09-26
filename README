@@ -1,0 +1,3 @@
+CoreNGS cryptography contribs - no compilation is done here but rather the
+CoreNGS/secure directory due to laws within the United States that make these
+sources controlled, so they have to be seperated from CoreNGS/contrib.
